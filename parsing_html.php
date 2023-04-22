@@ -1,3 +1,4 @@
+<?php
 $url =  $_SERVER['DOCUMENT_ROOT']."/assets/Фото_сотрудников_за_период_с_11_01_2023_по_11_01_2023_20230111093630.html";
 
         $dom = new DOMDocument();
